@@ -20,11 +20,10 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 #### What have you done for your project so far?
 
 Created a start menu for the game with (semi) functional buttons of 'Start Game','Options', and 'QUIT'
-Began working on the actual snake game
 
 #### What have you not done for your project yet?
 
--Complete the core snake game
+-Program the core snake game
 -Figure out user customization of background color
 -add leaderboard
 -add speed (difficulty) options and other new features
